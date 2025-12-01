@@ -82,7 +82,7 @@ Simple user interface for interacting with DBMS.
 
 ## Work Flowchart
 
-```mermaid
+```
 
                      +----------------------+
                      |   Start Program      |
@@ -288,4 +288,5 @@ This project helps understand:
 #  **Author**
 
 **Mangesh Bedre**  
+
 Custom Java DBMS Developer
