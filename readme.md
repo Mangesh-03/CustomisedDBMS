@@ -35,7 +35,6 @@ It simulates real DBMS functionalities including
 Simple user interface for interacting with DBMS.
 
 ---
----
 
 #  **UML Diagram**
 
@@ -287,6 +286,7 @@ This project helps understand:
 #  **Author**
 
 **Mangesh Bedre**  
+
 
 
 
