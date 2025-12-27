@@ -1,4 +1,4 @@
-# 💬 **MANGESH DBMS – A Custom In-Memory Java Database**
+# 💬 **CustomisedDBMS – A Custom In-Memory Java Database**
 
 ## 🎯 Overview
 
@@ -286,6 +286,7 @@ This project helps understand:
 #  **Author**
 
 **Mangesh Bedre**  
+
 
 
 
