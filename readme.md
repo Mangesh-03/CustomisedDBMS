@@ -2,7 +2,7 @@
 
 ## 🎯 Overview
 
-Mangesh DBMS is a lightweight Java-based in-memory DBMS built using Object-Oriented Programming and **Java Serialization**.
+Customised DBMS is a lightweight Java-based in-memory DBMS built using Object-Oriented Programming and **Java Serialization**.
 It simulates real DBMS functionalities including 
 - Insert  
 - Select  
@@ -219,6 +219,10 @@ java CustomisedDBMS MangeshDB.ser
 7  : Delete by Employee Name
 8  : Select by Salary
 9  : Select by Address
+..
+Add more  query
+..
+..
 20 : Exit
 ```
 
@@ -285,7 +289,8 @@ This project helps understand:
 
 #  **Author**
 
-**Mangesh Bedre**  
+**Mangesh Ashok Bedre**  
+
 
 
 
