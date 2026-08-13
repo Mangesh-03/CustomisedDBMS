@@ -192,7 +192,7 @@ Handles CLI.
 
 ### **Compile**
 ```bash
-javac MangeshDBMS.java  Employee -d .
+javac MangeshDBMS.java  Employee.java -d .
 javac CustomisedDBMS.java
 ```
 
