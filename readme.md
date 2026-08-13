@@ -193,7 +193,7 @@ Handles CLI.
 ### **Compile**
 ```bash
 javac MangeshDBMS.java  Employee -d .
-javac Customised.java
+javac CustomisedDBMS.java
 ```
 
 ### **Run without backup**
